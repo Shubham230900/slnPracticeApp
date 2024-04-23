@@ -1,0 +1,14 @@
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfoInputs.cache
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.AssemblyInfo.cs
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.csproj.CoreCompileInputs.cache
+D:\.NET\slnPracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.exe
+D:\.NET\slnPracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.deps.json
+D:\.NET\slnPracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.runtimeconfig.json
+D:\.NET\slnPracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.dll
+D:\.NET\slnPracticeApp\PracticeApp\bin\Debug\net8.0\PracticeApp.pdb
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.dll
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\refint\PracticeApp.dll
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.pdb
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\PracticeApp.genruntimeconfig.cache
+D:\.NET\slnPracticeApp\PracticeApp\obj\Debug\net8.0\ref\PracticeApp.dll

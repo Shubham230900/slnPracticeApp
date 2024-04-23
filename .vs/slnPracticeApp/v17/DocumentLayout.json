@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\slnPracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|d:\\.net\\slnpracticeapp\\practiceapp\\staticexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|solutionrelative:practiceapp\\staticexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|d:\\.net\\slnpracticeapp\\practiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|solutionrelative:practiceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|d:\\.net\\slnpracticeapp\\practiceapp\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE6C09-4796-4706-AC37-C56DAFFE6844}|PracticeApp\\PracticeApp.csproj|solutionrelative:practiceapp\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticKeyword.cs",
+              "DocumentMoniker": "D:\\.NET\\slnPracticeApp\\PracticeApp\\StaticKeyword.cs",
+              "RelativeDocumentMoniker": "PracticeApp\\StaticKeyword.cs",
+              "ToolTip": "D:\\.NET\\slnPracticeApp\\PracticeApp\\StaticKeyword.cs",
+              "RelativeToolTip": "PracticeApp\\StaticKeyword.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:47:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticExample.cs",
+              "DocumentMoniker": "D:\\.NET\\slnPracticeApp\\PracticeApp\\StaticExample.cs",
+              "RelativeDocumentMoniker": "PracticeApp\\StaticExample.cs",
+              "ToolTip": "D:\\.NET\\slnPracticeApp\\PracticeApp\\StaticExample.cs",
+              "RelativeToolTip": "PracticeApp\\StaticExample.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:35:38.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\slnPracticeApp\\PracticeApp\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeApp\\Program.cs",
+              "ToolTip": "D:\\.NET\\slnPracticeApp\\PracticeApp\\Program.cs",
+              "RelativeToolTip": "PracticeApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:10:54.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
